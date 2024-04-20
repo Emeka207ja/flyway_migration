@@ -1,0 +1,6 @@
+--CREATE CATEGORY TABLE
+CREATE TABLE category(
+   category_id BIGINT PRIMARY KEY,
+   name VARCHAR(255)
+);
+
